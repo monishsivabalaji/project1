@@ -64,7 +64,7 @@
 .topbtn button:focus{
     color: rgb(30, 11, 99);
     background-color: white;
-    border-color: black;
+    border-color: white;
 }
 .searchbar input{
     position: relative;
